@@ -37,7 +37,6 @@ _description to be added_
 * **participants**: @icontentsystems @creativeinc1 @Heca_hatty
 
 
-
 ### Matatu Chat
 
 * **owners**: @wandiasilo
@@ -51,4 +50,16 @@ so that it never leaves my network. And Also I can take it with me, create a WiF
 
 * **owners**: @gr2m
 * **participants**: @gr2m, Henriatta
+* **repository**: _add repository URL here_
+
+### URL shortener
+
+* **ownsers**: @philemonsamoei
+* **participants**: @bmbeke
+* **repository**: https://github.com/samoei
+
+
+### TweetMiner
+
+* **team**: @trustonailende @_wandeg @otienofred @calymailu
 * **repository**: _add repository URL here_
