@@ -29,3 +29,12 @@ _description to be added_
 * **owners**: Vicky
 * **participants**: _add your handle here_
 * **repository**: _add repository URL here_
+
+### Hoodie BRCK
+
+Let's see if we can run [Hoodie](http://hood.ie) on the BRCK, so we can use web apps loaded from everywhere that connect to the BRCK in my local data,
+so that it never leaves my network. And Also I can take it with me, create a WiFi hotspot and have people connect and work with it.
+
+* **owners**: @gr2m
+* **participants**: @gr2m, Henriatta
+* **repository**: _add repository URL here_
