@@ -55,7 +55,7 @@ so that it never leaves my network. And Also I can take it with me, create a WiF
 ### URL shortener
 
 * **ownsers**: @philemonsamoei
-* **participants**: @bmbeke
+* **participants**: @bmbeke @nevillemasheti
 * **repository**: https://github.com/samoei
 
 
