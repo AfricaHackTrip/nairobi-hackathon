@@ -30,6 +30,15 @@ _description to be added_
 * **participants**: _add your handle here_
 * **repository**: _add repository URL here_
 
+
+
+### Hardware Hacking - Arduino + Rasberry PI
+
+* **owners**: @MichaelGpops @anagrom_ataf 
+* **participants**: @icontentsystems @creativeinc1 @Heca_hatty
+
+
+
 ### Hoodie BRCK
 
 Let's see if we can run [Hoodie](http://hood.ie) on the BRCK, so we can use web apps loaded from everywhere that connect to the BRCK in my local data,
