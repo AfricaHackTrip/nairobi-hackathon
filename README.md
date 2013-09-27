@@ -31,12 +31,17 @@ _description to be added_
 * **repository**: _add repository URL here_
 
 
-
 ### Hardware Hacking - Arduino + Rasberry PI
 
 * **owners**: @MichaelGpops @anagrom_ataf 
 * **participants**: @icontentsystems @creativeinc1 @Heca_hatty
 
+
+
+### Matatu Chat
+
+* **owners**: @wandiasilo
+* **participants**: @olagovincent @xmartin @thuhChief @im_nasi
 
 
 ### Hoodie BRCK
