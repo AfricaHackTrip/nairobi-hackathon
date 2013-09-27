@@ -20,7 +20,7 @@ Projects
 
 _description to be added_
 
-* **owners**: @usahidi, @ekala
+* **owners**: @usahidi, @ekala, @gr2m
 * **participants**: _add your handle here_
 * **repository**: https://github.com/ushahidi/pingapp/
 
