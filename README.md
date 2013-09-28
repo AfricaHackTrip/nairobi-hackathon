@@ -53,6 +53,7 @@ so that it never leaves my network. And Also I can take it with me, create a WiF
 * **repository**: _add repository URL here_
 
 ### URL shortener
+For brand recognizition you will want to have your own url shortener and this is what all this URL Shortener hackathon is all about.
 
 * **ownsers**: @philemonsamoei
 * **participants**: @bmbeke @nevillemasheti
