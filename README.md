@@ -36,7 +36,7 @@ JavaScript/HTML5 app for learning Swahili.
 
 * **participants**: @langalex @skddc @bumi Vicky
 * [code](https://github.com/AfricaHackTrip/dozepoa)
-* website: <dozepoa.com>
+* website: http://dozepoa.com
 
 ### Hardware Hacking - Arduino + Rasberry PI
 
