@@ -30,6 +30,13 @@ _description to be added_
 * **participants**: _add your handle here_
 * **repository**: _add repository URL here_
 
+### Dozepoa
+
+JavaScript/HTML5 app for learning Swahili.
+
+* **participants**: @langalex @skddc @bumi Vicky
+* [code](https://github.com/AfricaHackTrip/dozepoa)
+* website: <dozepoa.com>
 
 ### Hardware Hacking - Arduino + Rasberry PI
 
