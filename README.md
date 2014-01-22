@@ -70,4 +70,4 @@ For brand recognizition you will want to have your own url shortener and this is
 ### TweetMiner
 
 * **team**: @trustonailende @_wandeg @otienofred @calymailu
-* **repository**: _add repository URL here_
+* **repository**: https://github.com/wandeg/tweet-miner
